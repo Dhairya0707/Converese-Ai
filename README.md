@@ -29,6 +29,6 @@ The main source code for the Converse AI Chatbot Creator can be found [here](htt
 
 ## Contact Us
 
-If you have any questions or feedback, please contact us at [support@converseai.com](mailto:support@converseai.com).
+If you have any questions or feedback, please contact us at [support@converseai.com](mailto:dhairyadarji025@gmail.com.com).
 
 Thank you for using the Converse AI Chatbot Creator! We hope you enjoy creating your custom chatbots with ease.
